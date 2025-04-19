@@ -7,5 +7,5 @@ scanf("%d %d", &a ,&b);
     int d = a|b;
     int e = c^d;
     printf("%d" ,e);
-    return 0;
+    
 }
