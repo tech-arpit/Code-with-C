@@ -52,5 +52,5 @@ int main() {
     // Print the corrected passcode
     printf("%d %d %d %d %d %d %d %d %d %d\n", a, b, c, d, e, f, g, h, i, j);
 
-
+return 0;
 }
