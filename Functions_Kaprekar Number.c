@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include<lib.h>
 
 int is_kaprekar(int n) {
     // Implement logic here
