@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<math.h>
 int is_spy_number(int n) {
     int sum = 0;
    int product = 1 ;
